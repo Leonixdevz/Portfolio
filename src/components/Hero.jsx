@@ -57,7 +57,7 @@ const Hero = () => {
         custom={0}
       >
         <img
-          src="./PIC-profile-me.jpg"
+          src="./PIC-profile-me.jpeg"
           alt="Toheeb Adeleke - Software Developer"
           className="w-full h-full object-cover"
         />
